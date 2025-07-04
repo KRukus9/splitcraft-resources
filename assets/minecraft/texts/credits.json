@@ -61,7 +61,8 @@
                     {
                         "title": "Resource Pack Texture Artists",
                         "names": [
-                            "'Rukus'"
+                            "'Rukus'",
+                            "'Incloce'"
                         ]
                     },
                     {
@@ -78,7 +79,11 @@
                             "AvM Command Staff by MythicMango",
                             "Plague Doctor Girl by Unknown, modified by 'Stormshire'",
                             "Lyney by meteorr and Qumai",
-                            "Asuka by Unknown"
+                            "Asuka by Unknown",
+                            "Felix Argyle by Unknown",
+                            "Venti by Unknown",
+                            "Astolfo Casual by Unknown",
+                            "Technoblade by Technoblade, Modified by 'Rukus'"
                         ]
                     },
                     {
@@ -89,8 +94,9 @@
                             "Animator vs. Minecraft by Alan Becker",
                             "Neon Genesis Evangelion by Hideaki Anno",
                             "Genshin Impact by miHoYo",
-                            "2 mg Estradiol pill by Teva Pharmaceuticals"
-
+                            "2 mg Estradiol pill by Teva Pharmaceuticals",
+                            "Re:Zero - Starting Life in Another World by Tappei Nagatsuki",
+                            "Fate:Apocrypha by Type-Moon"
                         ]
                     }
                 ]
@@ -103,7 +109,7 @@
                         "names": [
                             "The Church (The Pale Communion)",
                             "Children of the Moon",
-                            "Jizzland :3"
+                            "Jizzland :3 / Jizztopia"
                         ]
                     }
                 ]
