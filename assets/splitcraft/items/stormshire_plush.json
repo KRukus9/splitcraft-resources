@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "splitcraft:item/stormshire_plush"
+    "model": "plush:item/stormshire_plush"
   }
 }
