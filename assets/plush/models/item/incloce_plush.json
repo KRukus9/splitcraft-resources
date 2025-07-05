@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "splitcraft:item/incloce_plush",
-		"particle": "splitcraft:item/incloce_plush"
+		"0": "plush:item/incloce_plush",
+		"particle": "plush:item/incloce_plush"
 	},
 	"elements": [
 		{

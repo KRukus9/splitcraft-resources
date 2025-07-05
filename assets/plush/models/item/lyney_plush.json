@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "splitcraft:item/lyney_plush",
-		"particle": "splitcraft:item/lyney_plush"
+		"0": "plush:item/lyney_plush",
+		"particle": "plush:item/lyney_plush"
 	},
 	"elements": [
 		{
